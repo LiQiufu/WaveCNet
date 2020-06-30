@@ -1,4 +1,4 @@
-# WaveCNet [[paper]]()
+# WaveCNet [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)
 
 The WaveCNet is designed using DWT and the commonly used CNN networks in PyTorch: https://pytorch.org/docs/stable/torchvision/models.html#classification
 
