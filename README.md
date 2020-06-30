@@ -9,3 +9,7 @@ The WaveCNet code is revised on the PyTorch image classification code: https://g
 ```bash
  CUDA_VISIBLE_DEVICES=0 python main.py --data /PYTHON_TO_IMANGENET -a resnet18_dwt -b 256 -w bior3.3 --gpu 0 --lr 0.1
 ```
+
+## (2) The trained weight files
+
+The weight files will be upload on the website: https://pan.baidu.com/s/1RN_WW0dRrTHmLdKTTGTZgg  (passwords: sf1d)
