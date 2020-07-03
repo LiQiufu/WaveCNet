@@ -2,7 +2,7 @@
 
 The WaveCNet is designed using DWT and the commonly used CNN networks in PyTorch: https://pytorch.org/docs/stable/torchvision/models.html#classification
 
-The WaveCNet code is revised on the PyTorch image classification code: https://github.com/pytorch/examples/blob/42e5b996718797e45c46a25c55b031e6768f8440/imagenet/main.py#L89-L101
+The main.py is revised on the PyTorch image classification code: https://github.com/pytorch/examples/blob/42e5b996718797e45c46a25c55b031e6768f8440/imagenet/main.py#L89-L101
 
 ## (1) Training WaveCNet on ImageNet
 
@@ -13,3 +13,17 @@ The WaveCNet code is revised on the PyTorch image classification code: https://g
 ## (2) The trained weight files
 
 The weight files will be upload on the website: https://pan.baidu.com/s/1RN_WW0dRrTHmLdKTTGTZgg  (passwords: sf1d)
+
+## (3) The paper
+
+If the code or method help you in the research, please cite the following paper:
+
+```bash
+@InProceedings(qiufu_2020_CVPR,
+author = {Li, Qiufu and Shen, Linlin and Guo, Sheng and Lai, Zhihui},
+title = {Wavelet Integrated CNNs for Noise-Robust Image Classification},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {june},
+year = {2020}
+}
+```
