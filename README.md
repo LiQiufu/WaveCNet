@@ -12,7 +12,7 @@ The main.py is revised on the PyTorch image classification code: https://github.
 
 ## (2) The trained weight files
 
-The pretrained weight files have be upload on the website: https://pan.baidu.com/s/1RN_WW0dRrTHmLdKTTGTZgg  (passwords: sf1d)
+The pretrained weight files have be uploaded on the website: https://pan.baidu.com/s/1RN_WW0dRrTHmLdKTTGTZgg  (passwords: sf1d)
 
 ## (3) The paper
 
