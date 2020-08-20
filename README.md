@@ -4,6 +4,8 @@ The WaveCNet is designed using DWT and the commonly used CNN networks in PyTorch
 
 The main.py is revised on the PyTorch image classification code: https://github.com/pytorch/examples/blob/42e5b996718797e45c46a25c55b031e6768f8440/imagenet/main.py#L89-L101
 
+WaveUNet for image segmentation has been renamed as WaveSNet: https://github.com/LiQiufu/WaveSNet
+
 ## (0) Paper Name
 Wavelet Integrated CNNs for Noise-Robust Image Classification
 
