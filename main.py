@@ -190,6 +190,7 @@ def main_worker(gpu, args, printer):
         import models_dwt.resnet
         import models_dwt.densenet
         import models_dwt.mobilenet
+        import models_dwt_ov.resnet_A, models_dwt_ov.resnet_C
 
         if (args.arch == 'vgg11_bn_dwt'):
             model = models_dwt.vgg_v1.vgg11_bn(wavename = args.wavename)
@@ -211,6 +212,10 @@ def main_worker(gpu, args, printer):
 
         elif (args.arch == 'resnet18_dwt'):
             model = models_dwt.resnet.resnet18(wavename = args.wavename)
+        elif (args.arch == 'resnet18_dwt_a'):
+            model = models_dwt_ov.resnet_A.resnet18(wavename = args.wavename)
+        elif (args.arch == 'resnet18_dwt_c'):
+            model = models_dwt_ov.resnet_C.resnet18(wavename = args.wavename)
         elif (args.arch == 'resnet34_dwt'):
             model = models_dwt.resnet.resnet34(wavename = args.wavename)
         elif (args.arch == 'resnet50_dwt'):
