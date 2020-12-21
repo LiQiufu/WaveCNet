@@ -6,7 +6,7 @@ The main.py is revised on the PyTorch image classification code: https://github.
 
 WaveUNet for image segmentation has been renamed as WaveSNet: https://github.com/LiQiufu/WaveSNet
 
-## (0) Paper Name
+## (0) Paper Title
 Wavelet Integrated CNNs for Noise-Robust Image Classification
 
 ## (1) Training WaveCNet on ImageNet
