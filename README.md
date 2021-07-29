@@ -1,5 +1,4 @@
-# WaveCNet [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)
-
+# WaveCNet [[paper1]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)[[paper2]](https://arxiv.org/pdf/2107.13335.pdf)
 The WaveCNet is designed using DWT and the commonly used CNN networks in PyTorch: https://pytorch.org/docs/stable/torchvision/models.html#classification
 
 The main.py is revised on the PyTorch image classification code: https://github.com/pytorch/examples/blob/42e5b996718797e45c46a25c55b031e6768f8440/imagenet/main.py#L89-L101
@@ -30,5 +29,13 @@ title = {Wavelet Integrated CNNs for Noise-Robust Image Classification},
 booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {june},
 year = {2020}
+}
+
+@article(qiufu_2021_TIP,
+author = {Li, Qiufu and Shen, Linlin and Guo, Sheng and Lai, Zhihui},
+title = {WaveCNet: Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification},
+booktitle = {IEEE Transactions on Image Processing (TIP)},
+month = {july},
+year = {2021}
 }
 ```
