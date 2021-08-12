@@ -36,6 +36,8 @@ author = {Li, Qiufu and Shen, Linlin and Guo, Sheng and Lai, Zhihui},
 title = {WaveCNet: Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification},
 booktitle = {IEEE Transactions on Image Processing (TIP)},
 month = {july},
-year = {2021}
+year = {2021},
+pages = {7074--7089},
+vol = {30}
 }
 ```
