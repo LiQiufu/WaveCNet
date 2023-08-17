@@ -23,12 +23,12 @@ The pretrained weight files have be uploaded on the website: https://pan.baidu.c
 If the code or method help you in the research, please cite the following paper:
 
 ```bash
-@InProceedings(qiufu_2020_CVPR,
-author = {Li, Qiufu and Shen, Linlin and Guo, Sheng and Lai, Zhihui},
-title = {Wavelet Integrated CNNs for Noise-Robust Image Classification},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {june},
-year = {2020}
+@inproceedings{li2020wavelet,
+  title={Wavelet integrated CNNs for noise-robust image classification},
+  author={Li, Qiufu and Shen, Linlin and Guo, Sheng and Lai, Zhihui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7245--7254},
+  year={2020}
 }
 
 @article(qiufu_2021_TIP,
