@@ -16,7 +16,7 @@ Wavelet Integrated CNNs for Noise-Robust Image Classification
 
 ## (2) The trained weight files
 
-The pretrained weight files have be uploaded on the website: https://pan.baidu.com/s/1RN_WW0dRrTHmLdKTTGTZgg  (passwords: sf1d)
+The pretrained weight files have be uploaded on the website: [https://pan.baidu.com/s/1T8vrOd0Zq8jv9fT5b7jdcQ](https://pan.baidu.com/s/1T8vrOd0Zq8jv9fT5b7jdcQ)  (passwords: auc9)
 
 ## (3) The paper
 
